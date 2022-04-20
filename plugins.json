@@ -1,1 +1,1 @@
-[]
+[{"projectUrl":"https://discord.gg/mgHtrgr","provider":"achachi","name":".Achachi Loader","description":"","id":"achachiloader-plugin","releases":[{"date":"2022-04-20","sha512sum":"9CBFED8721BA145D4000C9AD85C616FA6A5E8D32030E943C743934DBB6CBC48C6B457BAAEDBBC4C54E3C24A5C175112F5E167172D24F335FF6C690F6885414C3","version":"0.0.1","url":"https://github.com/achachi/plugins-hosting/blob/main/release/achachiloader-0.0.1.jar?raw=true","requires":"^1.0.0"}]}]
