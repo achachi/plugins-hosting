@@ -116,32 +116,57 @@
       "version": "0.2.7",
       "url": "https://github.com/achachi/plugins-hosting/blob/main/release/achachiloader-0.2.7.jar?raw=true",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-04-28",
+      "sha512sum": "D22398DCDDD5FE02D5106B9B6CB8C487233A807731FC865B77C755341ECAC58A7E4C83C50BCF8301B1E9B21068736AFE3580DDB1D05238BC773396E9A9510D2F",
+      "version": "0.2.8",
+      "url": "https://github.com/achachi/plugins-hosting/blob/main/release/achachiloader-0.2.8.jar?raw=true",
+      "requires": "^1.0.0"
     }
   ]
 }, {
-  "projectUrl": "https://discord.gg/mgHtrgr",
+  "projectUrl": "https://discord.gg/vB7EaqpyQT",
   "provider": "achachi",
   "name": ".Continue Clicker",
   "description": "Presses continue on dialogue when available",
   "id": "continueclicker-plugin",
-  "releases": [{
-    "date": "2022-04-25",
-    "sha512sum": "607FDB446B8BA1A50D73418735F35E82562693BEDFBC5CC397FF773C158418CB925C8A104DDFA4A9593A9718E65DD1617AE0FE76F499A92B1D177900B92E1423",
-    "version": "1.0.1",
-    "url": "https://github.com/achachi/plugins-hosting/blob/main/release/continueclicker-1.0.1.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-04-25",
+      "sha512sum": "607FDB446B8BA1A50D73418735F35E82562693BEDFBC5CC397FF773C158418CB925C8A104DDFA4A9593A9718E65DD1617AE0FE76F499A92B1D177900B92E1423",
+      "version": "1.0.1",
+      "url": "https://github.com/achachi/plugins-hosting/blob/main/release/continueclicker-1.0.1.jar?raw=true",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-04-28",
+      "sha512sum": "6496F97362452141833610217130C9EAACD8932117BC1FABAEF45AE9166FB79CD6BF088F7A2327F46B45E759709F35CC0682EF7BAD9BB78DB3DD3B4F4EFE1FB4",
+      "version": "1.0.2",
+      "url": "https://github.com/achachi/plugins-hosting/blob/main/release/continueclicker-1.0.2.jar?raw=true",
+      "requires": "^1.0.0"
+    }
+  ]
 }, {
-  "projectUrl": "https://discord.gg/mgHtrgr",
+  "projectUrl": "https://discord.gg/vB7EaqpyQT",
   "provider": "achachi",
   "name": ".Special Attack User",
   "description": "Automatically enables special attack",
   "id": "specialattackuser-plugin",
-  "releases": [{
-    "date": "2022-04-25",
-    "sha512sum": "A40A9D36C918DF741C308B0D6F37B206A9EFE275166E9CC62D49BA75254C1BBB37FAE0C58D64F265F17827C3AFD27452E317278AE7073A60526F3B1990242103",
-    "version": "1.0.1",
-    "url": "https://github.com/achachi/plugins-hosting/blob/main/release/specialattackuser-1.0.1.jar?raw=true",
-    "requires": "^1.0.0"
-  }]
+  "releases": [
+    {
+      "date": "2022-04-25",
+      "sha512sum": "A40A9D36C918DF741C308B0D6F37B206A9EFE275166E9CC62D49BA75254C1BBB37FAE0C58D64F265F17827C3AFD27452E317278AE7073A60526F3B1990242103",
+      "version": "1.0.1",
+      "url": "https://github.com/achachi/plugins-hosting/blob/main/release/specialattackuser-1.0.1.jar?raw=true",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2022-04-28",
+      "sha512sum": "E35B9418D16A3B75C12E7031E810E3BA6D7C606FC6C5F12539DC67EAB7BA514964B4935531645D893CAD6DB55FFFCBFED739BE5C950D71F0B0DB7CB1604A005D",
+      "version": "1.0.2",
+      "url": "https://github.com/achachi/plugins-hosting/blob/main/release/specialattackuser-1.0.2.jar?raw=true",
+      "requires": "^1.0.0"
+    }
+  ]
 }]
