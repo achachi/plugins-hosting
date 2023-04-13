@@ -1355,6 +1355,13 @@
       "version": "0.20.5",
       "url": "https://github.com/achachi/plugins-hosting/blob/main/release/achachiloader-0.20.5.jar?raw=true",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2023-04-13",
+      "sha512sum": "8D0B887A4FAF93110EC5FB2AD607390DD4F6E32DD9A20A01C5619DEA9EEE5C9BBF13E1CBE4FB00B5C3082F2560DB894F6C199A7627D449B00AE8A39D0275D3AE",
+      "version": "0.20.6",
+      "url": "https://github.com/achachi/plugins-hosting/blob/main/release/achachiloader-0.20.6.jar?raw=true",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -2609,6 +2616,13 @@
       "version": "1.17.8",
       "url": "https://github.com/achachi/plugins-hosting/blob/main/release/continueclicker-1.17.8.jar?raw=true",
       "requires": "^1.0.0"
+    },
+    {
+      "date": "2023-04-13",
+      "sha512sum": "C05FB07E48944923456120CF935C53FB7B41B5881A90082C7C952D8262E3D697D4F6DD7F1BA2600D05B92225B1FFA0D04DA00AB77DE5387CB80CAA407F2A7885",
+      "version": "1.17.9",
+      "url": "https://github.com/achachi/plugins-hosting/blob/main/release/continueclicker-1.17.9.jar?raw=true",
+      "requires": "^1.0.0"
     }
   ]
 }, {
@@ -3862,6 +3876,13 @@
       "sha512sum": "F4CD3F5046EF91F63673AB44676ADE2C67853B1EDFAE68A48404C6CBACC58442AB92FE3FB6E63AE52BBD0273EE9AE0F405897ECFD69E73D0D2BC4D3EDBB5DD33",
       "version": "1.17.8",
       "url": "https://github.com/achachi/plugins-hosting/blob/main/release/specialattackuser-1.17.8.jar?raw=true",
+      "requires": "^1.0.0"
+    },
+    {
+      "date": "2023-04-13",
+      "sha512sum": "97A2EC7547E8952315BA0FF64F4ECB7CC324B5DF602F42C9E34CF150B180F05CAF2CEEFBB30C1B7BB072CAF2811E081C373DE8BBBDEE7FE378E084BE3F9D9460",
+      "version": "1.17.9",
+      "url": "https://github.com/achachi/plugins-hosting/blob/main/release/specialattackuser-1.17.9.jar?raw=true",
       "requires": "^1.0.0"
     }
   ]
