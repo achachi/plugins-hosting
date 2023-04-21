@@ -6,9 +6,9 @@
   "id": "achachiloader-plugin",
   "releases": [{
     "date": "2023-04-21",
-    "sha512sum": "C655CF4BE1B281471C4B9A83B2483229B615CA92CFAFCBAFE7F97B273F5E6403EAE5266EBA005088C67CF64741BE9D8F0E439050CE361689BDDCC03476219EEA",
-    "version": "0.21.9",
-    "url": "https://raw.githubusercontent.com/achachi/plugins/main/release/Loader/achachiloader-0.21.9.jar",
+    "sha512sum": "86A97AF9728A6B1F7069C8B9ABF796C54848FF29507CF585EB686D84451D59C5370617120EB436290795A09F1819876E0B6ED6C414ED8B39A96DE5C011D0F33E",
+    "version": "0.22.0",
+    "url": "https://raw.githubusercontent.com/achachi/plugins/main/release/Loader/achachiloader-0.22.0.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -19,9 +19,9 @@
   "id": "continueclicker-plugin",
   "releases": [{
     "date": "2023-04-21",
-    "sha512sum": "CB925245F816495E6D4333A7789754ADE3C02A6BE2B991AA3A30B0AFB1171512088432CC4E8CE61C9A4D8297B43552548C50DD52F9596043DADF6474CAA7BB2E",
-    "version": "1.19.2",
-    "url": "https://raw.githubusercontent.com/achachi/plugins/main/release/Free/continueclicker-1.19.2.jar",
+    "sha512sum": "65D1F20BA2E2E833CAC5E58106A208713124C8FEE2F2B849A8EFAA14EBB5B72AF8437624A77D0DC9623DCC1A64960FB20ACAB8B29B44F657FCA150C3A7C9372B",
+    "version": "1.19.3",
+    "url": "https://raw.githubusercontent.com/achachi/plugins/main/release/Free/continueclicker-1.19.3.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -32,9 +32,9 @@
   "id": "specialattackuser-plugin",
   "releases": [{
     "date": "2023-04-21",
-    "sha512sum": "E97CAF04CBC6C2B0EFE74A0130956C5912BDCE713C2185BAB0CE11418D8AE25A4937F85C6E3D413479E92D85246A85E1B338B31E6F61581650EAC3CAA977AF22",
-    "version": "1.19.2",
-    "url": "https://raw.githubusercontent.com/achachi/plugins/main/release/Free/specialattackuser-1.19.2.jar",
+    "sha512sum": "84607B56E35CE8AB4DE194D684512F62D3EF9E6AC0F274DD03EBC956B2395DF64B32040AE6CBC75CEC710416CB73AC7DD41095E2A87FA1E94EB95AFAF5D9E47D",
+    "version": "1.19.3",
+    "url": "https://raw.githubusercontent.com/achachi/plugins/main/release/Free/specialattackuser-1.19.3.jar",
     "requires": "^1.0.0"
   }]
 }]
