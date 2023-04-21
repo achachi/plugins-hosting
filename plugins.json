@@ -8,7 +8,7 @@
     "date": "2023-04-21",
     "sha512sum": "122472FD687D482C00E540324C317A22792BEA998F4450EE8ECE1CC54F1E380833FFA13D5BBEAB1C9C712118E8FF8BD31A11E20AB1075639AA701917E5101AC4",
     "version": "1.0.3",
-    "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-1.0.3.jar",
+    "url": "https://github.com/achachi/plugins-hosting/blob/master/release/achachiloader-1.0.3.jar?raw=true",
     "requires": "^1.0.0"
   }]
 }, {
