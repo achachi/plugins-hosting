@@ -5,10 +5,10 @@
   "description": "",
   "id": "achachiloader-plugin",
   "releases": [{
-    "date": "2023-04-19",
-    "sha512sum": "600A6DD18D4F9F85AC1D232C7238E7D770DE41B0750EE3B700D04A6A6D68A3F43E5E39E27839C119A9A2BE22310B2B13665C6F87B65E1BAC90AF9F04F2F2D106",
-    "version": "0.21.8",
-    "url": "https://raw.githubusercontent.com/achachi/plugins/main/release/Loader/achachiloader-0.21.8.jar",
+    "date": "2023-04-21",
+    "sha512sum": "C655CF4BE1B281471C4B9A83B2483229B615CA92CFAFCBAFE7F97B273F5E6403EAE5266EBA005088C67CF64741BE9D8F0E439050CE361689BDDCC03476219EEA",
+    "version": "0.21.9",
+    "url": "https://raw.githubusercontent.com/achachi/plugins/main/release/Loader/achachiloader-0.21.9.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -18,10 +18,10 @@
   "description": "Presses continue on dialogue when available",
   "id": "continueclicker-plugin",
   "releases": [{
-    "date": "2023-04-19",
-    "sha512sum": "F225D684F4061F15012BDC6887413D1259350527698D9E30DAC0027170EC5C81F9B5E7C2B53FFFD52458A1B205BD1B58BF2211340A152554D508779DB52B02BA",
-    "version": "1.19.1",
-    "url": "https://raw.githubusercontent.com/achachi/plugins/main/release/Free/continueclicker-1.19.1.jar",
+    "date": "2023-04-21",
+    "sha512sum": "CB925245F816495E6D4333A7789754ADE3C02A6BE2B991AA3A30B0AFB1171512088432CC4E8CE61C9A4D8297B43552548C50DD52F9596043DADF6474CAA7BB2E",
+    "version": "1.19.2",
+    "url": "https://raw.githubusercontent.com/achachi/plugins/main/release/Free/continueclicker-1.19.2.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -31,10 +31,10 @@
   "description": "Automatically enables special attack",
   "id": "specialattackuser-plugin",
   "releases": [{
-    "date": "2023-04-19",
-    "sha512sum": "8F2FE1DA77C6A8055E7E04214D73B36D902FA78208970FE322559A516C91E6403C1E0199B230C85780F0D1E26BDBDBBA2589784644A9651C8B1A033B9AC1B0C8",
-    "version": "1.19.1",
-    "url": "https://raw.githubusercontent.com/achachi/plugins/main/release/Free/specialattackuser-1.19.1.jar",
+    "date": "2023-04-21",
+    "sha512sum": "E97CAF04CBC6C2B0EFE74A0130956C5912BDCE713C2185BAB0CE11418D8AE25A4937F85C6E3D413479E92D85246A85E1B338B31E6F61581650EAC3CAA977AF22",
+    "version": "1.19.2",
+    "url": "https://raw.githubusercontent.com/achachi/plugins/main/release/Free/specialattackuser-1.19.2.jar",
     "requires": "^1.0.0"
   }]
 }]
