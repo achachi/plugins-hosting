@@ -6,9 +6,9 @@
   "id": "achachiloader-plugin",
   "releases": [{
     "date": "2023-04-22",
-    "sha512sum": "5D67ED512778FE1F0D2D05F549FFF50941D7CC583DA50E77BC9FEA2A9F548FDA62DEC7CDBE3B686AFAADE5F70763B034A8A9A98822EB641BECD6333C44B13FF7",
-    "version": "1.0.7",
-    "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-1.0.7.jar",
+    "sha512sum": "707A7F4961595B74346C61DA094ECA598999DD6F5B795FEE2E298925E72409B752B6480950DAB547872FBE926381A4BFA73D91649DD2EF1507823901615384CD",
+    "version": "1.0.8",
+    "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-1.0.8.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -19,9 +19,9 @@
   "id": "autils-plugin",
   "releases": [{
     "date": "2023-04-22",
-    "sha512sum": "7897E08D4037B2F871E8CD8CDCD60F600A3451E07BB82EFAD435112195B5B5CE8E8D058348873E23EB739ABE0AFA554E939190998A3E914223FB1678AF5ED746",
-    "version": "1.0.3",
-    "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/autils-1.0.3.jar",
+    "sha512sum": "ED497E7C0EE1AA142478C28C5BFF09D08CADA9C3FFCBE84B23AD1DC2C9B21FFFFF87A82A5A4D98668D808C152752E3ABD7C36B402C586044752483C25865D483",
+    "version": "1.0.4",
+    "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/autils-1.0.4.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -32,9 +32,9 @@
   "id": "continueclicker-plugin",
   "releases": [{
     "date": "2023-04-22",
-    "sha512sum": "AE2061A0A6FC4966365C11A80559263FFC79D4CA3B255B1B0F0F47FFC61829FD5E8E5CC98F9CAC6B780A8972A36A81E0B179ED2689E02EEEE453720D09EEE732",
-    "version": "1.20.0",
-    "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/continueclicker-1.20.0.jar",
+    "sha512sum": "1EF3BBF32D3D7B8B91B3DE6327F8D14A4E3804FBFA2B171752E90E84DEB93261907FED5E0A6FDD840C10F6EA1F03412C9C4387C92FD84827C672F15763D5C83C",
+    "version": "1.20.1",
+    "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/continueclicker-1.20.1.jar",
     "requires": "^1.0.0"
   }]
 }, {
@@ -45,9 +45,9 @@
   "id": "specialattackuser-plugin",
   "releases": [{
     "date": "2023-04-22",
-    "sha512sum": "BEA55FF7C97643B9395B0EADF5201C956CC297B67A07F74E060A4AB08B7F56E279E7E7C0E48328362226176042F857167649E596F198E7006D55177249279259",
-    "version": "1.20.0",
-    "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/specialattackuser-1.20.0.jar",
+    "sha512sum": "7D1B037BE72FB077CB3B962DB0F3D91F467B6DAC716A8AC7D41860498BA7BC6DE4CD3DCF262A690DD42687D20DE0CBF3E2743C7C8D22038FE3CC5FD26881CA65",
+    "version": "1.20.1",
+    "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/specialattackuser-1.20.1.jar",
     "requires": "^1.0.0"
   }]
 }]
