@@ -26,6 +26,13 @@
                 "version": "1.22.4",
                 "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-1.22.4.jar",
                 "requires": "^1.0.0"
+            },
+            {
+                "date": "2023-04-23",
+                "sha512sum": "B21E48DCC5A0B59088E8BF1F4F2BD297F942E311272734580BEF999E31B32AA9304413C367CBF648BAE399A5BF1CD2E7A461572831F0E1D56122A49922DF3FE6",
+                "version": "1.22.5",
+                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-1.22.5.jar",
+                "requires": "^1.0.0"
             }
         ]
     },
@@ -55,6 +62,13 @@
                 "sha512sum": "4DE3308E4293DA59E42C7BC60FA074190EA75AED1AA332C54FB786CE7638ADABADC6343B92F72C73133C22DB0329C3E912FDC4A38EFA6D0D98C633707691B7DA",
                 "version": "1.22.4",
                 "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/autils-1.22.4.jar",
+                "requires": "^1.0.0"
+            },
+            {
+                "date": "2023-04-23",
+                "sha512sum": "D9333652EC019C9034F8F21B528AA69AE3E9235232F4C1A7F111FF8D1AC6A3ED2E74E4648418C7B60EC3A0F510B6D1C231A9DCF9D8C97BBC4B80154F4FC8AB0B",
+                "version": "1.22.5",
+                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/autils-1.22.5.jar",
                 "requires": "^1.0.0"
             }
         ]
@@ -86,6 +100,13 @@
                 "version": "1.22.4",
                 "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/continueclicker-1.22.4.jar",
                 "requires": "^1.0.0"
+            },
+            {
+                "date": "2023-04-23",
+                "sha512sum": "7A2A9D982603DC2E410D715E502964EB60F36AF3361A52D4B6E06C7EB513C699E57F4D72CC7C420B16518491417C125882F1514EBB53AF9BB3187941603E784C",
+                "version": "1.22.5",
+                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/continueclicker-1.22.5.jar",
+                "requires": "^1.0.0"
             }
         ]
     },
@@ -115,6 +136,13 @@
                 "sha512sum": "6814CC9F90EC0BC6C5AF83107DA6B8EFE14252032324672E333441178A52E27D65AD54643D9728EE30EFD99D9B9C96134C5155227D6A567BD6881BA80732B26F",
                 "version": "1.22.4",
                 "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/specialattackuser-1.22.4.jar",
+                "requires": "^1.0.0"
+            },
+            {
+                "date": "2023-04-23",
+                "sha512sum": "1495117A91A937FF88641820F279B0C99A17EE68BCAC95CBBDC5D58BCB8C08796B842816DD98DF032D8E89598762ED16B32E9FCAE34234E7EA64D0F73A186E43",
+                "version": "1.22.5",
+                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/specialattackuser-1.22.5.jar",
                 "requires": "^1.0.0"
             }
         ]
