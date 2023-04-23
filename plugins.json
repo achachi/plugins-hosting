@@ -1,53 +1,66 @@
-[{
-  "projectUrl": "https://discord.gg/vB7EaqpyQT",
-  "provider": "achachi",
-  "name": ".Achachi Loader",
-  "description": "",
-  "id": "achachiloader-plugin",
-  "releases": [{
-    "date": "2023-04-22",
-    "sha512sum": "707A7F4961595B74346C61DA094ECA598999DD6F5B795FEE2E298925E72409B752B6480950DAB547872FBE926381A4BFA73D91649DD2EF1507823901615384CD",
-    "version": "1.0.8",
-    "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-1.0.8.jar",
-    "requires": "^1.0.0"
-  }]
-}, {
-  "projectUrl": "https://discord.gg/vB7EaqpyQT",
-  "provider": "achachi",
-  "name": ".AUtils",
-  "description": "",
-  "id": "autils-plugin",
-  "releases": [{
-    "date": "2023-04-22",
-    "sha512sum": "ED497E7C0EE1AA142478C28C5BFF09D08CADA9C3FFCBE84B23AD1DC2C9B21FFFFF87A82A5A4D98668D808C152752E3ABD7C36B402C586044752483C25865D483",
-    "version": "1.0.4",
-    "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/autils-1.0.4.jar",
-    "requires": "^1.0.0"
-  }]
-}, {
-  "projectUrl": "https://discord.gg/vB7EaqpyQT",
-  "provider": "achachi",
-  "name": ".Continue Clicker",
-  "description": "Presses continue on dialogue when available",
-  "id": "continueclicker-plugin",
-  "releases": [{
-    "date": "2023-04-22",
-    "sha512sum": "1EF3BBF32D3D7B8B91B3DE6327F8D14A4E3804FBFA2B171752E90E84DEB93261907FED5E0A6FDD840C10F6EA1F03412C9C4387C92FD84827C672F15763D5C83C",
-    "version": "1.20.1",
-    "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/continueclicker-1.20.1.jar",
-    "requires": "^1.0.0"
-  }]
-}, {
-  "projectUrl": "https://discord.gg/vB7EaqpyQT",
-  "provider": "achachi",
-  "name": ".Special Attack User",
-  "description": "Automatically enables special attack",
-  "id": "specialattackuser-plugin",
-  "releases": [{
-    "date": "2023-04-22",
-    "sha512sum": "7D1B037BE72FB077CB3B962DB0F3D91F467B6DAC716A8AC7D41860498BA7BC6DE4CD3DCF262A690DD42687D20DE0CBF3E2743C7C8D22038FE3CC5FD26881CA65",
-    "version": "1.20.1",
-    "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/specialattackuser-1.20.1.jar",
-    "requires": "^1.0.0"
-  }]
-}]
+[
+    {
+        "projectUrl": "https://discord.gg/vB7EaqpyQT",
+        "provider": "achachi",
+        "name": ".Achachi Loader",
+        "description": "",
+        "id": "achachiloader-plugin",
+        "releases": [
+            {
+                "date": "2023-04-23",
+                "sha512sum": "FCE5F2E16DFA72DAFA1553845A494A20A04DA9C3A78177B50CC1D51DC95241D2B4F5FB57F27E40C46113895DC472FFD30D9D92370D0C159F63C04D7D13E2BDF0",
+                "version": "1.22.2",
+                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-1.22.2.jar",
+                "requires": "^1.0.0"
+            }
+        ]
+    },
+    {
+        "projectUrl": "https://discord.gg/vB7EaqpyQT",
+        "provider": "achachi",
+        "name": ".AUtils",
+        "description": "",
+        "id": "autils-plugin",
+        "releases": [
+            {
+                "date": "2023-04-23",
+                "sha512sum": "EA4022AEE14B7E734254759C40EBC67EBFD8FDA60696749AB24AC2FD62187D3F1AC4EC44D0244B3C976A55834B8939CC51783E15337F2114F2F339382A66FB6E",
+                "version": "1.22.2",
+                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/autils-1.22.2.jar",
+                "requires": "^1.0.0"
+            }
+        ]
+    },
+    {
+        "projectUrl": "https://discord.gg/vB7EaqpyQT",
+        "provider": "achachi",
+        "name": ".Continue Clicker",
+        "description": "Presses continue on dialogue when available",
+        "id": "continueclicker-plugin",
+        "releases": [
+            {
+                "date": "2023-04-23",
+                "sha512sum": "26D8A9E9A75CAC1EC6557001EDD721DEE5D34CBC52456593E4938E20D3B942E32C26E988BA609D044EE9C27F8D5B44756B8B9C1C51A261FEEF8566D2F458077D",
+                "version": "1.22.2",
+                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/continueclicker-1.22.2.jar",
+                "requires": "^1.0.0"
+            }
+        ]
+    },
+    {
+        "projectUrl": "https://discord.gg/vB7EaqpyQT",
+        "provider": "achachi",
+        "name": ".Special Attack User",
+        "description": "Automatically enables special attack",
+        "id": "specialattackuser-plugin",
+        "releases": [
+            {
+                "date": "2023-04-23",
+                "sha512sum": "57BAE964D542415317BA43962765D3D8A792DAEBE8FC43F184C4921181A92EB751C863A58F826D6C8DAD209BC2CF3912D2AD17B043564D73183CDA8ED2132224",
+                "version": "1.22.2",
+                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/specialattackuser-1.22.2.jar",
+                "requires": "^1.0.0"
+            }
+        ]
+    }
+]
