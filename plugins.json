@@ -40,7 +40,7 @@
                 "date": "2023-04-23",
                 "sha512sum": "AC2533B1B4DCB9A6BF573BB7D8023D76FC46779542A11B5C5F5A8C2B79AA33C4B673782526AF16C77DB21708FC78CDA9D377DECB3BF3870F2F00DEB8D5E4241A",
                 "version": "1.22.3",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/autils-1.22.3.jar",
+                "url": "https://github.com/achachi/plugins-hosting/blob/master/release/autils-1.22.3.jar?raw=true",
                 "requires": "^1.0.0"
             }
         ]
