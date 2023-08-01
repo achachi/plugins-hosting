@@ -113,7 +113,7 @@
             },
             {
                 "date": "2023-08-01",
-                "sha512sum": "40296E1D0AB85D811D81C4DAABB8C8E0511E38DDDC191F2CC8FB16AC2350FD58489115170A1F030C7FC26B8756C217E8CF379D392CD93494AE50E6F9175193FE",
+                "sha512sum": "98736111154B2DE8D4946153CB4DBF1FED1C8408C650F600C55177A781081926979487FD153A1D8DBDCEAA280019DEFD5AE7B09A36394DFBC7061BD5EB6B34FF",
                 "version": "2.2.8",
                 "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.2.8.jar",
                 "requires": "^1.0.0"
@@ -234,7 +234,7 @@
             },
             {
                 "date": "2023-08-01",
-                "sha512sum": "BF10E01E10036B136BED6AD7038141060F21785A8F9C2273629F98B36B0001879FE372D88DF40B71A4249B8D52A2CFAED77B5EF09E1FC3C5C9FAF5B40C378D52",
+                "sha512sum": "E996BF0BDCC370ACF36F15027B62CE3B22497EEA39BCB6656FCFDD3434F0B8B2FDDFE537D088E917D559A8D13053C81060FC97138E76AC112F808A6E4FB4307D",
                 "version": "2.2.8",
                 "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/autils-2.2.8.jar",
                 "requires": "^1.0.0"
