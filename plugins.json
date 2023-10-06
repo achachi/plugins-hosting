@@ -172,6 +172,13 @@
                 "version": "2.4.2",
                 "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/specialattackuser-2.4.2.jar",
                 "requires": "^1.0.0"
+            },
+            {
+                "date": "2023-10-06",
+                "sha512sum": "EBC9330716B9E8E91CD5122550EDC24CA91C4E4408AB8BA2115713C8AB335C2C7BCD96D08764F643647DADB40045DB28560C4411187C3B69BC767CB79B38B6E8",
+                "version": "2.4.3",
+                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/specialattackuser-2.4.3.jar",
+                "requires": "^1.0.0"
             }
         ]
     },
