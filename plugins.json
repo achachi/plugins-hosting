@@ -3,7 +3,7 @@
         "projectUrl": "https://discord.gg/vB7EaqpyQT",
         "provider": "achachi",
         "name": ".Achachi Loader",
-        "description": "",
+        "description": "Loader for non-storm achachi plugins",
         "id": "achachiloader-plugin",
         "releases": [
             {
