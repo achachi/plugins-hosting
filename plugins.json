@@ -5,6 +5,7 @@
         "name": ".Achachi Loader",
         "description": "Loader for non-storm achachi plugins",
         "id": "achachiloader-plugin",
+        [
             {
                 "date": "2024-04-27",
                 "sha512sum": "C53CBB88668334CE34E00337330BA67387616669DE586B296BD5C00B482E8CA46C8B858A964293250BD46614D74AADE036766CC21D0B5EEB0493A6319977C9A2",
