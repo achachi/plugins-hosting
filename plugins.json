@@ -110,6 +110,13 @@
                 "version": "2.7.5",
                 "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.7.5.jar",
                 "requires": "^1.0.0"
+            },
+            {
+                "date": "2024-09-11",
+                "sha512sum": "CC57687A78253309DD68BECEF5381A91BA9FAB7AA75B37B271A418376C698DB3BA3CFCD803C807DC97B8A09F3C48427A9E29213CD9850086CAE1780103BCB702",
+                "version": "2.7.6",
+                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.7.6.jar",
+                "requires": "^1.0.0"
             }
         ]
     }
