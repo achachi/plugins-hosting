@@ -7,132 +7,6 @@
         "id": "achachiloader-plugin",
         "releases": [
             {
-                "date": "2024-04-12",
-                "sha512sum": "8E7C74882468653B1B60F6DD0136419A55417524DD0D7BD5817AC69676A78713F43ECFA5432E147ADB23970AF531154A8DFE2C6472EDC1B6DE94261872B30546",
-                "version": "2.5.8",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.5.8.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-04-13",
-                "sha512sum": "D1C2A2F4983E8F1F00CFF4DB127A1160EB8CAA958C789BE6B29BB98D95FF78BF81E944A4E7329FCA8E5FAC209D133ABB171DDA973E7B214D237DB4BBAAE995D9",
-                "version": "2.5.9",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.5.9.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-04-17",
-                "sha512sum": "81891F68FCAEAEA5D2892B076F75C800F415C5DFEC8C4779AEED932A2A12B3A1048BD0B5BF81DBD912D256DF6A7D7DAEAAA8270AF052DE124B1DCEF98E9156E4",
-                "version": "2.6.0",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.6.0.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-04-18",
-                "sha512sum": "68E4DFDABB25F157E9B1BAC3400D5F26B722F24EC817F22CDBABBA2CFD325CE5B4DE71B25E787B98E5744475115B22B83EDD1702934F34DC4C5A076712A5EFAF",
-                "version": "2.6.1",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.6.1.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-04-18",
-                "sha512sum": "0ED5E13F4D9EAC8EA90CAF6D82B39E91E567E0F8DDE0947AB7FA876C97DA49F9EC8E6C21B7D61BBBDF5712DBB0DB04F41CC4A451A09B73C76B9ECD7D059BFD36",
-                "version": "2.6.2",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.6.2.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-04-18",
-                "sha512sum": "76192DA7A07730959CD725CB36A25AD8A21D3AEE1865D1B88EAE871A27F1A5D30552CA8F3633FA89FC9C8A917B98693C8A20F1A53DBD772B2326950C64C9AE81",
-                "version": "2.6.3",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.6.3.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-04-22",
-                "sha512sum": "674316F05C7B61E1817F5CE2CAAE2515CB30BE0FA2FE8034F81A4898267958FF18AD7E7FF598D5562D00CC7C270E00556D8B2B78138365D246565ABEF8E333AD",
-                "version": "2.6.5",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.6.5.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-04-24",
-                "sha512sum": "B1A5A701506FE370F80406497679C3492A84EA4A5BDD2C112A262402E5E6962A403B0251198172C2B23E6A52719EE72D3A4A6DDE33B8332BD3C78AD9881B2DB6",
-                "version": "2.6.7",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.6.7.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-04-24",
-                "sha512sum": "60F3E8379CA81B80BDB97BB0F12062C6D4236C84A5257E50C1969B26A97A0BE7978021E4A5EC8598F10DC4DBF5180D1AC846428A8B7CC5597024A82CB3672505",
-                "version": "2.6.8",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.6.8.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-04-27",
-                "sha512sum": "C53CBB88668334CE34E00337330BA67387616669DE586B296BD5C00B482E8CA46C8B858A964293250BD46614D74AADE036766CC21D0B5EEB0493A6319977C9A2",
-                "version": "2.6.9",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.6.9.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-06-07",
-                "sha512sum": "A8C0180C7EAE3D33A8383CA0EDB2F5803D3C8A99E971DCEDBD0A9E63393A8ED141FFF245F980156B2CF1AD04A07C1927317B587B94CA2CAC851ADE4A7A487254",
-                "version": "2.7.0",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.7.0.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-06-07",
-                "sha512sum": "9ADEEDE0892ECEDE7E4AF8E261728AD28D2E60C968F7E29F05ADA1DB90D8049D98A7CB8D3D2ED611ECA63C71F91D3C4C00DD021CEF3FFFFBB282371AF36CA2AE",
-                "version": "2.7.2",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.7.2.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-06-13",
-                "sha512sum": "AF75F66D152ABB5AEFBA3FA389C232D7F3192CE99AE6CD58E4AB47FA24D69B5FB55EDC83445056CB5A23540EFA3AC00E625D3E7DAB9F4B24B9349B93090196C6",
-                "version": "2.7.3",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.7.3.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-08-19",
-                "sha512sum": "5E9A9D2E5A5DB369F6D805AE29C7E90AFB601BD5EB876A584AF3E8BDF90E0B59F18F14EF9DC2AA414A6379E71AAC473CE820F093DE8B406D7531928D8EED98A2",
-                "version": "2.7.4",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.7.4.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-08-30",
-                "sha512sum": "ED821ECD76172482DA45636F9F8EE6729EC2005EC1811A3196FEEE320F21F380AED4ACFE3C75CF21FBFED5DAFB7C20963A0333A1B9300E31A881102563CF3350",
-                "version": "2.7.5",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.7.5.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-09-11",
-                "sha512sum": "CC57687A78253309DD68BECEF5381A91BA9FAB7AA75B37B271A418376C698DB3BA3CFCD803C807DC97B8A09F3C48427A9E29213CD9850086CAE1780103BCB702",
-                "version": "2.7.6",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.7.6.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-09-16",
-                "sha512sum": "921BE15CC701F5F0744FE12B5BCA6CF6DAABC677DE56BCEC525FE90A01278760F5204BD84FD971D24EF989CA93A37CCA3E885F5159978B28934D5B2DFEDA4D73",
-                "version": "2.7.7",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.7.7.jar",
-                "requires": "^1.0.0"
-            },
-            {
-                "date": "2024-09-16",
-                "sha512sum": "3E2FD36B990285E9DD1E4C23B17CA52C6D38883BD272D93B9131F70B2EEDD3DEDA4B4829AD27A26BA6226B8A320B3E48656643860E67E2CC21368ED5E18BB30D",
-                "version": "2.7.8",
-                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.7.8.jar",
-                "requires": "^1.0.0"
-            },
-            {
                 "date": "2024-10-18",
                 "sha512sum": "4636BD587F3B8C9BF26B3DE0C03A4FCA4046E6D7C13EA0D0EA7B3C235A9E23EDC0B78DB59CA93EFE83971A14F4257095C01356EFACFB4C006AABDF7DE3DA4955",
                 "version": "2.8.0",
@@ -151,6 +25,13 @@
                 "sha512sum": "CC59997838B3D1628221F230B02CD2ED58508B710D8F4034F7D2F65F83B7C55CD99F82D977BCEF855923750FC1DB747921DF2AC1CF1B276A070353377F1B72ED",
                 "version": "2.8.2",
                 "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.8.2.jar",
+                "requires": "^1.0.0"
+            },
+            {
+                "date": "2024-11-19",
+                "sha512sum": "8D343EDD6C7617C1F73BF07C61DFA5A7013637AB8C8D2E488C045D8DBA44C92A85BAD05FC68BF3BCCA32C36E4CAC57D85BCA4E582B2FDE92C19654D5A8CB2A42",
+                "version": "2.8.3",
+                "url": "https://raw.githubusercontent.com/achachi/plugins-hosting/master/release/achachiloader-2.8.3.jar",
                 "requires": "^1.0.0"
             }
         ]
